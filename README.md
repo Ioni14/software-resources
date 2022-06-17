@@ -13,7 +13,6 @@
 
 
 
-
 ## Utils
 
 [Photopea : SaaS for Adobe files 🇬🇧 https://www.photopea.com/](https://www.photopea.com/)
@@ -32,69 +31,83 @@
 
 [Adobe Color : another colors factory 🇬🇧 https://color.adobe.com/create/color-wheel](https://color.adobe.com/create/color-wheel)
 
-[](https://medium.com/better-programming/modern-frontend-hacking-cheatsheets-df9c2566c72a)
-[](https://css-tricks.com/a-lightweight-masonry-solution/)
-[](http://www.webpagetest.org/)
-[](https://www.alsacreations.com/article/lire/1621-responsive-images-srcset.html)
-[](https://insights.kyan.com/image-optimisation-techniques-for-web-49f820b227a1)
-[](https://chrisbateman.github.io/webpack-visualizer/)
-[](https://mjml.io/)
-[](https://www.npmjs.com/package/webpack-bundle-analyzer)
-[](https://developers.google.com/web/tools/lighthouse/)
-[](https://images.guide/)
-[](https://jakearchibald.github.io/svgomg/)
-[](https://shoelace.style/)
-[](https://github.com/aFarkas/lazysizes)
-[](https://github.com/maoberlehner/vue-lazy-hydration)
-[](https://requestmap.webperf.tools/)
-[](https://nuxtjs.org/)
-[](https://github.com/ain/smartbanner.js/)
-[](https://web.dev/content-visibility/)
-[](https://vuepress.vuejs.org/)
-[](https://buefy.org/documentation/table/)
-[](https://tailblocks.cc/)
-[](https://mjml.io/)
-[](https://nivo.rocks/line)
-[](https://matomo.org/)
-[](https://www.canva.com/)
+[Front framework cheat sheets 🇬🇧 https://medium.com/better-programming/modern-frontend-hacking-cheatsheets-df9c2566c72a](https://medium.com/better-programming/modern-frontend-hacking-cheatsheets-df9c2566c72a)
+
+[Web page test 🇬🇧 http://www.webpagetest.org](http://www.webpagetest.org)
+
+[Image optimization 🇬🇧 https://insights.kyan.com/image-optimisation-techniques-for-web-49f820b227a1](https://insights.kyan.com/image-optimisation-techniques-for-web-49f820b227a1)
+
+[SVG optimization 🇬🇧 https://jakearchibald.github.io/svgomg/](https://jakearchibald.github.io/svgomg/)
+
+[JPG/PNG optimization 🇬🇧 https://tinypng.com/](https://tinypng.com/)
+
+[Front optimizations 🇬🇧 https://web.dev/fast/](https://web.dev/fast/)
+
+[Webpack analyzer 🇬🇧 https://www.npmjs.com/package/webpack-bundle-analyzer](https://www.npmjs.com/package/webpack-bundle-analyzer)
+
+[Webpack vizualizer 🇬🇧 https://chrisbateman.github.io/webpack-visualizer/](https://chrisbateman.github.io/webpack-visualizer/)
+
+[Responsive emails framework 🇬🇧 https://mjml.io/](https://mjml.io/)
+
+[Lazysizes : helper srcset 🇬🇧 https://github.com/aFarkas/lazysizes](https://github.com/aFarkas/lazysizes)
+
+[Vuepress : Wordpress with VueJS 🇬🇧 https://vuepress.vuejs.org](https://vuepress.vuejs.org/)
+
+[Nivo : graphics lib 🇬🇧 https://nivo.rocks/line](https://nivo.rocks/line)
+
+[Matomo : Google Analytics alternative 🇬🇧 https://matomo.org](https://matomo.org/)
 
 ## PHP
 
-https://3v4l.org/
-http://www.phpinternalsbook.com/php7/build_system/building_extensions.html
-https://github.com/cycle/orm
-https://sites.google.com/a/chromium.org/chromedriver/capabilities
-https://github.com/markrogoyski/math-php
-https://github.com/steos/php-quickcheck
-https://www.elastic.co/fr/videos/state-of-the-art-of-elasticsearch-with-symfony
-https://github.com/jupeter/clean-code-php
-https://github.com/domnikl/DesignPatternsPHP
-https://github.com/igbinary/igbinary
-https://github.com/janephp/automapper
-https://cheatsheetseries.owasp.org/cheatsheets/PHP_Configuration_Cheat_Sheet.html
-https://medium.com/@Cyrdup/mutation-testing-960759c44c0
-https://www.rosstuck.com/precision-through-imprecision-improving-time-objects
-https://matthiasnoback.nl/
-https://thephpleague.com/#packages
-https://github.com/thephpleague/oauth2-client
-https://php.watch/articles/php-exception-performance
-https://github.com/Drenso/symfony-shared/blob/master/src/Database/Types/UTCDateTimeType.php
-https://jolicode.com/blog/libsodium-pour-les-nuls-ou-la-cryptographie-en-php
-https://github.com/mockery/mockery
-https://github.com/rectorphp/rector
-https://www.tecmint.com/improve-php-fpm-performance/
-https://rtfm.co.ua/en/linux-php-fpm-docker-stdout-and-stderr-no-an-applications-error-logs/
-http://www.inanzzz.com/index.php/post/6cn7/formatting-php-fpm-and-nginx-access-logs-as-standardised-json-string-in-docker-environment
-https://pecl.php.net/package/apfd
-https://www.yasumi.dev/
-https://github.com/opentracing/opentracing-php
-https://github.com/Ocramius/DoctrineBatchUtils
-https://github.com/approvals/approvaltests.php
-https://phptherightway.com/
-http://www.thatsgeeky.com/2012/02/directly-connecting-to-php-fpm/
-https://easyengine.io/tutorials/php/directly-connect-php-fpm/
-https://bugs.php.net/bugs-generating-backtrace.php
-https://github.com/matthiasnoback/TalisORM
+[3v4l : Sandbox PHP 🇬🇧 https://3v4l.org/](https://3v4l.org/)
+
+[Cycle ORM 🇬🇧 https://github.com/cycle/orm](https://github.com/cycle/orm)
+
+[Talis ORM 🇬🇧 https://github.com/matthiasnoback/TalisORM](https://github.com/matthiasnoback/TalisORM)
+
+[ 🇬🇧 https://github.com/janephp/automapper](https://github.com/janephp/automapper)
+
+[Math PHP 🇬🇧 https://github.com/markrogoyski/math-php](https://github.com/markrogoyski/math-php)
+
+[Property-based testing 🇬🇧 https://github.com/steos/php-quickcheck](https://github.com/steos/php-quickcheck)
+
+[Mutation testing 🇬🇧 https://infection.github.io/guide/](https://infection.github.io/guide/)
+
+[Approval testing 🇬🇧 https://github.com/approvals/approvaltests.php](https://github.com/approvals/approvaltests.php)
+
+[Use `final` 🇬🇧 https://ocramius.github.io/blog/when-to-declare-classes-final/](https://ocramius.github.io/blog/when-to-declare-classes-final/)
+
+[Design patterns 🇬🇧 https://github.com/domnikl/DesignPatternsPHP](https://github.com/domnikl/DesignPatternsPHP)
+
+[Binary PHP serializer 🇬🇧 https://github.com/igbinary/igbinary](https://github.com/igbinary/igbinary)
+
+[PHP Conf Security 🇬🇧 https://cheatsheetseries.owasp.org/cheatsheets/PHP_Configuration_Cheat_Sheet.html](https://cheatsheetseries.owasp.org/cheatsheets/PHP_Configuration_Cheat_Sheet.html)
+
+[Blog Matthias Noback 🇬🇧 https://matthiasnoback.nl/](https://matthiasnoback.nl/)
+
+[PHP League 🇬🇧 https://thephpleague.com/#packages](https://thephpleague.com/#packages)
+
+[Libsodium expliqué 🇫🇷 https://jolicode.com/blog/libsodium-pour-les-nuls-ou-la-cryptographie-en-php](https://jolicode.com/blog/libsodium-pour-les-nuls-ou-la-cryptographie-en-php)
+
+[Rector : upgrades helper 🇬🇧 https://github.com/rectorphp/rector](https://github.com/rectorphp/rector)
+
+[Standardize PHP logs for Docker env 🇬🇧 http://www.inanzzz.com/index.php/post/6cn7/formatting-php-fpm-and-nginx-access-logs-as-standardised-json-string-in-docker-environment](http://www.inanzzz.com/index.php/post/6cn7/formatting-php-fpm-and-nginx-access-logs-as-standardised-json-string-in-docker-environment)
+
+[Always populate form data 🇬🇧 https://pecl.php.net/package/apfd](https://pecl.php.net/package/apfd)
+
+[Holidays dates 🇬🇧 https://www.yasumi.dev/](https://www.yasumi.dev/)
+
+[Open Telemetry : tracing, metrics, logging 🇬🇧 https://opentelemetry.io/docs/instrumentation/php/](https://opentelemetry.io/docs/instrumentation/php/)
+
+[Doctrine Batching 🇬🇧 https://github.com/Ocramius/DoctrineBatchUtils](https://github.com/Ocramius/DoctrineBatchUtils)
+
+[Learning PHP 🇬🇧 https://phptherightway.com/](https://phptherightway.com/)
+
+[Request PHP-FPM 🇬🇧 https://easyengine.io/tutorials/php/directly-connect-php-fpm/](https://easyengine.io/tutorials/php/directly-connect-php-fpm/)
+
+[Moebius : easy async in PHP 🇬🇧 https://github.com/frodeborli/moebius](https://github.com/frodeborli/moebius)
+
+[PHP Arch : assert sources dependencies 🇬🇧 https://github.com/j6s/phparch](https://github.com/j6s/phparch)
 
 ## Symfony
 
