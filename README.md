@@ -10,9 +10,6 @@
 
 [Security](#security)
 
-
-
-
 ## Utils
 
 [Photopea : SaaS for Adobe files 🇬🇧 https://www.photopea.com/](https://www.photopea.com/)
@@ -111,51 +108,18 @@
 
 ## Symfony
 
-http://talks.nekland.fr/Doctrine/#/
-https://github.com/dmaicher/doctrine-test-bundle
-https://assets.andreiabohner.org/symfony/sf44-messenger-cheat-sheet.pdf
-http://afsy.fr/avent/2013/14-votre-application-est-lente-pensez-a-optimiser-doctrine
-https://stefanoalletti.wordpress.com/2018/08/10/cqrs-is-easy-with-symfony-4-and-his-messanger-component/
-https://speakerdeck.com/nicolasgrekas/
-https://ocramius.github.io/blog/doctrine-orm-optimization-hydration/
-https://ocramius.github.io/doctrine-best-practices/#/100
-https://github.com/GoogleChromeLabs/IseWebSecurityBundle
-https://jolicode.com/blog/battle-log-a-deep-dive-in-symfony-stack-in-search-of-optimizations-2-n
-https://matthiasnoback.nl/2014/05/inject-a-repository-instead-of-an-entity-manager/
-https://symfony.com/doc/current/messenger/dispatch_after_current_bus.html
-https://github.com/symfony/ux
-https://symfony.com/doc/current/setup/upgrade_major.html
-https://developer.happyr.com/symfony-lock-and-messenger-component
-https://github.com/doctrine/orm/issues/5550
-https://jolicode.com/blog/batching-symfony-messenger-messages
-https://github.com/mtarld/apip-ddd
+[Confs Nicolas Grekas 🇬🇧 https://speakerdeck.com/nicolasgrekas/](https://speakerdeck.com/nicolasgrekas/)
+
+[Blog Matthias Noback 🇬🇧 https://matthiasnoback.nl/](https://matthiasnoback.nl/)
+
+[Comment faire du Doctrine moderne 🇫🇷 http://talks.nekland.fr/Doctrine/#/](http://talks.nekland.fr/Doctrine/#/)
+
+[Doctrine hydration 🇬🇧 https://ocramius.github.io/blog/doctrine-orm-optimization-hydration/](https://ocramius.github.io/blog/doctrine-orm-optimization-hydration/)
+
+[Doctrine best practices 🇬🇧 https://ocramius.github.io/doctrine-best-practices/](https://ocramius.github.io/doctrine-best-practices/)
+
+[Docker php extension installer 🇬🇧 https://github.com/mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer)
 
 ## Security
 
-https://wiki.skullsecurity.org/Passwords
-https://blog.vnaik.com/posts/web-attacks.html
-http://tools.kali.org/tools-listing
-https://linuxconfig.org/ssh-password-testing-with-hydra-on-kali-linux
-https://openweb.eu.org/articles/content-security-policy
-https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software
-https://www.alsacreations.com/article/lire/1723-tour-horizon-https-et-en-tetes-de-securite.html
-https://www.hardenize.com/
-https://tools.kali.org/information-gathering/theharvester
-https://jolicode.com/blog/libsodium-pour-les-nuls-ou-la-cryptographie-en-php
-https://jolicode.com/blog/why-you-dont-need-jwt
-https://paragonie.com/blog/2019/03/definitive-2019-guide-cryptographic-key-sizes-and-algorithm-recommendations
-https://medium.com/faun/understanding-rate-limiting-on-haproxy-b0cf500310b1
-https://www.oauth.com/oauth2-servers/authorization/the-authorization-request/
-https://auth0.com/
-https://auth0.com/
-https://auth0.com/blog/how-saml-authentication-works/
-https://auth0.com/docs/protocols/saml-configuration-options/configure-okta-as-saml-identity-provider
-https://github.com/scheb/2fa
-https://auth0.com/blog/creating-your-first-symfony-app-and-adding-authentication/#Aside--Using-Auth0-with-Symfony
-https://www.honeybadger.io/blog/subdomain-takeover/
-https://medium.com/faun/container-security-a6acb1ea08b3
-https://jepsen.io/analyses
-https://medium.com/@robert.broeckelmann/saml-v2-0-vs-jwt-series-550551f4eb0d
-https://jub0bs.com/posts/2021-01-29-great-samesite-confusion/
-https://medium.com/doctolib/an-introduction-to-encryption-how-to-protect-data-in-healthcare-4d3677add6ec
 
