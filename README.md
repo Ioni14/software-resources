@@ -120,6 +120,25 @@
 
 [Docker php extension installer 🇬🇧 https://github.com/mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer)
 
+[2FA for Symfony 🇬🇧 https://github.com/scheb/2fa](https://github.com/scheb/2fa)
+
 ## Security
 
+[OWASP cheat sheets 🇬🇧 https://github.com/OWASP/CheatSheetSeries/tree/master/cheatsheets](https://github.com/OWASP/CheatSheetSeries/tree/master/cheatsheets)
+
+[Secure guide PHP 🇬🇧 https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software](https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software)
+
+[Security testing of website 🇬🇧 https://www.hardenize.com/](https://www.hardenize.com/)
+
+[Libsodium expliqué 🇫🇷 https://jolicode.com/blog/libsodium-pour-les-nuls-ou-la-cryptographie-en-php](https://jolicode.com/blog/libsodium-pour-les-nuls-ou-la-cryptographie-en-php)
+
+[Crypto guide 🇬🇧 https://paragonie.com/blog/2019/03/definitive-2019-guide-cryptographic-key-sizes-and-algorithm-recommendations](https://paragonie.com/blog/2019/03/definitive-2019-guide-cryptographic-key-sizes-and-algorithm-recommendations)
+
+[OAuth 2 🇬🇧 https://oauth.net/2.1/](https://oauth.net/2.1/)
+
+[Auth0 (AaaS) 🇬🇧 https://auth0.com/](https://auth0.com/)
+
+[2FA for Symfony 🇬🇧 https://github.com/scheb/2fa](https://github.com/scheb/2fa)
+
+[SameSite explained 🇬🇧 https://jub0bs.com/posts/2021-01-29-great-samesite-confusion/](https://jub0bs.com/posts/2021-01-29-great-samesite-confusion/)
 
