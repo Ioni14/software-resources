@@ -10,6 +10,10 @@
 
 [Security](#security)
 
+[Testing](#testing)
+
+[SQL](#sql)
+
 ## Utils
 
 [Photopea : SaaS for Adobe files 🇬🇧 https://www.photopea.com/](https://www.photopea.com/)
@@ -160,5 +164,46 @@
 
 [Mock APIs 🇬🇧 https://mockoon.com/](https://mockoon.com/)
 
+## SQL
 
+[Use the index luke 🇬🇧 https://use-the-index-luke.com/fr](https://use-the-index-luke.com/fr)
 
+[Exercises SQL 🇬🇧 https://www.hackerrank.com/domains/sql](https://www.hackerrank.com/domains/sql)
+
+[Exercises SQL 🇬🇧 https://sqlzoo.net/](https://sqlzoo.net/)
+
+[Exercises Postgres 🇬🇧 https://pgexercises.com/](https://pgexercises.com/)
+
+[SQL tricks 🇬🇧 https://hakibenita.com/sql-tricks-application-dba](https://hakibenita.com/sql-tricks-application-dba)
+
+[MySQL perf tuning 🇬🇧 https://phoenixnap.com/kb/improve-mysql-performance-tuning-optimization](https://phoenixnap.com/kb/improve-mysql-performance-tuning-optimization)
+
+[MySQL scaling 🇬🇧 https://vitess.io/](https://vitess.io/)
+
+[Create 1M rows in Postgres 🇬🇧 https://theyoungtech.medium.com/create-a-table-with-1-million-rows-in-postgresql-bfee284077d5](https://theyoungtech.medium.com/create-a-table-with-1-million-rows-in-postgresql-bfee284077d5)
+
+[SQL Paginations 🇬🇧 https://aaronfrancis.com/2022/efficient-pagination-using-deferred-joins](https://aaronfrancis.com/2022/efficient-pagination-using-deferred-joins)
+
+[Window functions for perf 🇬🇧 https://selectfrom.dev/sql-performance-of-window-functions-vs-subqueries-on-big-data-3fa533fc64bf](https://selectfrom.dev/sql-performance-of-window-functions-vs-subqueries-on-big-data-3fa533fc64bf)
+
+[SQL tricks 🇬🇧 https://twitter.com/tobias_petry](https://twitter.com/tobias_petry)
+
+[LATERAL JOIN for looping 🇬🇧 https://twitter.com/tobias_petry/status/1529402441342525440/photo/1](https://twitter.com/tobias_petry/status/1529402441342525440/photo/1)
+
+## Datastores
+
+[Redis monitoring 🇬🇧 https://www.redsmin.com/](https://www.redsmin.com/)
+
+[Etat de l'art d'Elasticsearch avec PHP 🇫🇷 https://jolicode.github.io/elasticsearch-php-conf/slides/forumphp2020.html#/](https://jolicode.github.io/elasticsearch-php-conf/slides/forumphp2020.html#/)
+
+[Choose the right DB 🇬🇧 https://towardsdatascience.com/how-to-choose-the-right-database-afcf95541741](https://towardsdatascience.com/how-to-choose-the-right-database-afcf95541741)
+
+[Beanstalkd console 🇬🇧 https://github.com/xuri/aurora](https://github.com/xuri/aurora)
+
+[Should we abstract database ? 🇬🇧 https://enterprisecraftsmanship.com/posts/should-you-abstract-database/](https://enterprisecraftsmanship.com/posts/should-you-abstract-database/)
+
+[ImmuDB : immutable SQL/KV db 🇬🇧 https://codenotary.com/technologies/immudb/](https://codenotary.com/technologies/immudb/)
+
+[Recursive SQL with CTE 🇬🇧 https://dev.to/yugabyte/learn-how-to-write-sql-recursive-cte-in-5-steps-3n88](https://dev.to/yugabyte/learn-how-to-write-sql-recursive-cte-in-5-steps-3n88)
+
+[Redis Graph 🇬🇧 https://developer.redis.com/howtos/redisgraph/getting-started/](https://developer.redis.com/howtos/redisgraph/getting-started/)
