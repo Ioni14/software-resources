@@ -65,7 +65,7 @@
 
 [Talis ORM 🇬🇧 https://github.com/matthiasnoback/TalisORM](https://github.com/matthiasnoback/TalisORM)
 
-[ 🇬🇧 https://github.com/janephp/automapper](https://github.com/janephp/automapper)
+[Jane : auto-mapper 🇬🇧 https://github.com/janephp/automapper](https://github.com/janephp/automapper)
 
 [Math PHP 🇬🇧 https://github.com/markrogoyski/math-php](https://github.com/markrogoyski/math-php)
 
